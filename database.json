@@ -1,5 +1,3 @@
-{
-  "nl.bijsven.dropbox": {
-    "manifest": "/plugins/nl.bijsven.dropbox/manifest.json"
-  }
-}
+[
+  "nl.bijsven.dropbox"
+]
