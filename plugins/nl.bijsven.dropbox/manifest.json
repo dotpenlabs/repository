@@ -1,13 +1,6 @@
 {
   "id": "nl.bijsven.dropbox",
-  "name": "Dropbox Plugin",
-  "version": "1.0.0",
-  "description": "A dropbox extension for Dotpen.",
-  "author": "bijsven.nl",
-  "hash": "none",
-  "url": "https://spkg.bijsven.nl/dropbox-plugin/plugin.js",
-  "permissions": [
-    "action:dropout",
-    "placement:sidebar_bottom"
-  ]
+  "permissions": ["pluginkit:allow-same-origin"],
+  "locations": ["sidebar:bottom"],
+  "hash": "a6d6104af52ca057274baf68b93b41e44175d78f373a5ca9f560f6843049f1d4"
 }
