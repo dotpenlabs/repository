@@ -1,6 +1,6 @@
 {
   "id": "nl.bijsven.dropbox",
-  "permissions": ["pluginkit:allow-same-origin"],
+  "permissions": ["widget:sidebar:bottom", "pluginkit:allow-same-origin"],
   "locations": ["sidebar:bottom"],
   "hash": "a6d6104af52ca057274baf68b93b41e44175d78f373a5ca9f560f6843049f1d4"
 }
